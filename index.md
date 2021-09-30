@@ -19,8 +19,6 @@ email: ["fjennifer.mccauley@stonybrook.edu", "csarkar@nevada.unr.edu", "Farzana.
 collaborative_notes: https://pad.carpentries.org/2021-10-11-stonybrook-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 ---
 
-{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-
 {% comment %}
 HEADER
 
