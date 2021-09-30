@@ -4,8 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Stony Brook University"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Join Zoom Meeting
-https://stonybrook.zoom.us/j/95931041328?pwd=SVAxNmhvTTZIYkxtUGVRd2ZHeHd6Zz09
+address: "https://stonybrook.zoom.us/j/95931041328?pwd=SVAxNmhvTTZIYkxtUGVRd2ZHeHd6Zz09
 
 Meeting ID: 959 3104 1328
 Passcode: 751315"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
